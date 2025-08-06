@@ -53,3 +53,7 @@ function GetURL(input) {
 }
 
 After extracting the links into a separate column “Report Link”, I downloaded the data on my computer and was then able to run it in the PDF reader.
+
+There are two files in this github repo:
+(1) A .ipynb file (Jupyter Notebook) that has the code that is necessary to run, commented with instructions for use in a Jupyter environment, and the outputs of sample code that demonstrates functionality.
+(2) A .py file that is the base Python script without sample outputs.
